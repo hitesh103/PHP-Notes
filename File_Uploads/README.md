@@ -57,7 +57,7 @@ This example checks for common issues that can arise when handling file uploads,
 
 It also generates a unique file name for the uploaded file to avoid overwriting existing files with the same name
 
-To use this code, you will need to include an HTML form in your PHP script that allows the user to select a file to upload. The form should include an input element with the type attribute set to "file" and the `name` attribute set to "file".
+To use this code, you will need to include an HTML form in your PHP script that allows the user to select a file to upload. The form should include an input element with the `type` attribute set to "file" and the `name` attribute set to "file".
 
 
 
